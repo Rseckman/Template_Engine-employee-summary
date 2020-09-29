@@ -22,7 +22,7 @@
 
   Once you run app.js in the command line the application will ask you a series of questions, starting with information about your manager, followed by any number of engineers and interns you want to add.  Once you have added all the employees you wish to add, select "no more employees" and it will render your information in the output folder as an html file.
 
-  ![ScreeenShot](./develop/screenshot.png)
+  <img src="Develop/screenshot.png">
 
   ## License
 
